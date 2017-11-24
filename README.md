@@ -3,8 +3,7 @@ A Quiz-Game using Python
 
 PreRequisites are:
 
-* Random module
-* Basic knowledge on Classes and Objects
+-Python IDLE
 
-The user can view his/her score and also the entire scoreboard.
+It generates score based on the performance of user.
 
